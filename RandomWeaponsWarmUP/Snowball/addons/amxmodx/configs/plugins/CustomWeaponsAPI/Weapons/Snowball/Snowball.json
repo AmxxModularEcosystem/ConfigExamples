@@ -1,0 +1,22 @@
+{
+    "Reference": "weapon_hegrenade",
+    "Models": {
+        "View": "models/weapons/cwapi/Snowball/v_snowball.mdl",
+        "Player": "models/weapons/cwapi/Snowball/p_snowball.mdl",
+        "World": "models/weapons/cwapi/Snowball/w_snowball.mdl"
+    },
+    "Grenade": {
+        "PreventFITH": true
+    },
+    "Abilities": {
+        "Snowball": {
+            "Damage": 10.0,
+            "WithTrail": true
+        },
+        "Freeze": {
+            "Chance": 0.5,
+            "Duration": 5.0,
+            "SpeedMultiplier": 0.5
+        }
+    }
+}

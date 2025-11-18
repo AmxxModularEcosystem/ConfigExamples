@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Разминка 35hp",
+        "Items": [
+            {
+                "Item": "Weapon",
+                "Name": "weapon_knife",
+                "GiveType": "Replace",
+                "ForceActive": true
+            },
+            {
+                "Item": "Health",
+                "Amount": 35,
+                "SetHealth": true
+            }
+        ]
+    }
+
+    // Другие режимы...
+]

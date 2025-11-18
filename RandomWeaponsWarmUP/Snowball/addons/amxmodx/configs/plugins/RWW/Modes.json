@@ -1,0 +1,16 @@
+[
+    {
+        "Title": "Зиняя разминка",
+        "Items": [
+            {
+                "Item": "Cwapi",
+                "Name": "Snowball",
+                "GiveType": "Replace",
+                "BpAmmo": 99,
+                "ForceActive": true
+            }
+        ]
+    }
+
+    // Другие режимы...
+]
